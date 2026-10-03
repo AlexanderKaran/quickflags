@@ -1,3 +1,7 @@
 {
-  "name": "react"
+  "name": "react",
+  "devDependencies": {
+    "oxfmt": "^0.71.0",
+    "oxlint": "^1.86.0"
+  }
 }
